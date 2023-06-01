@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Main Game/Scene/KERJAAN_PENGKY.unity
     guid: e69e25aa3b60ee342b9535179d677515
+  - enabled: 1
+    path: Assets/Main Game/Scene/MainGameScene.unity
+    guid: a1073e11e8203f541b890002ddf98de1
   m_configObjects: {}

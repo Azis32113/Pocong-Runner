@@ -24,6 +24,7 @@
 
         public void Restart()
         {
+            
             if (onRestartClicked != null) 
             {
                 animatorPocong.SetBool("isDeath", false);
